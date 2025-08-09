@@ -19,3 +19,6 @@ After cloning/copying the repository, run
 where `mydata.ged` is a path to your personal genealogical data in GEDCOM format, and `index.html` is the name for the standalone HTML file to be generated.
 
 **That's it!** The bundle (HTML+JS) will be ready under the given path. You can either copy it to the destination server or simply open it in a browser.
+
+
+./build.sh Tignola.ged index.html
