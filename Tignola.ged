@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
-1 DATE 23 AUG 2025
-2 TIME 16:18:20
+1 DATE 1 SEP 2025
+2 TIME 23:30:48
 1 SUBM @SUBM@
 1 FILE F:\2025\Docs\Website Tignola\tignola\Tignola.ged
 1 COPR Copyright (c) 2025 .
@@ -276,9 +276,11 @@
 1 FAMC @F0005@
 2 PEDI birth
 1 FAMS @F0004@
+1 OBJE @O0002@
+1 OBJE @O0003@
 1 CHAN
-2 DATE 23 APR 2025
-3 TIME 00:16:42
+2 DATE 1 SEP 2025
+3 TIME 23:29:28
 0 @I0016@ INDI
 1 NAME Maria Antonia /Russo/
 2 TYPE birth
@@ -319,9 +321,10 @@
 1 FAMC @F0007@
 2 PEDI birth
 1 FAMS @F0006@
+1 OBJE @O0001@
 1 CHAN
-2 DATE 23 APR 2025
-3 TIME 00:11:40
+2 DATE 1 SEP 2025
+3 TIME 23:29:06
 0 @I0019@ INDI
 1 NAME Maria Carmela /Monaco/
 2 TYPE birth
@@ -8217,6 +8220,22 @@
 1 CHAN
 2 DATE 9 AUG 2025
 3 TIME 14:08:40
+0 @I0601@ INDI
+1 NAME Gennaro /Tignola/
+2 TYPE birth
+2 GIVN Gennaro
+2 SURN Tignola
+1 SEX M
+1 BIRT
+2 DATE 19 OCT 1883
+1 DEAT
+2 DATE 3 JUN 1946
+1 FAMC @F0005@
+2 PEDI birth
+1 OBJE @O0004@
+1 CHAN
+2 DATE 1 SEP 2025
+3 TIME 23:30:35
 0 @F0000@ FAM
 1 HUSB @I0190@
 1 MARR
@@ -8295,9 +8314,10 @@
 1 MARR
 2 DATE 12 APR 1880
 1 CHIL @I0015@
+1 CHIL @I0601@
 1 CHAN
-2 DATE 23 APR 2025
-3 TIME 00:16:42
+2 DATE 1 SEP 2025
+3 TIME 23:30:35
 0 @F0006@ FAM
 1 HUSB @I0018@
 1 WIFE @I0019@
@@ -10354,4 +10374,32 @@
 1 CHAN
 2 DATE 20 APR 2025
 3 TIME 02:14:11
+0 @O0001@ OBJE
+1 FILE F:\2025\Docs\tignola italie\Photos\Giovanni Tignola (1922) - Argia Mason - Mariage 1946.jpg
+2 FORM jpg
+2 TITL Giovanni Tignola (1922) - Argia Mason - Mariage 1946
+1 CHAN
+2 DATE 1 SEP 2025
+3 TIME 23:29:04
+0 @O0002@ OBJE
+1 FILE F:\2025\Docs\tignola italie\Photos\Giovanni Tignola (1881) - Maria Antonia Russo.jpg
+2 FORM jpg
+2 TITL Giovanni Tignola (1881) - Maria Antonia Russo
+1 CHAN
+2 DATE 1 SEP 2025
+3 TIME 23:29:23
+0 @O0003@ OBJE
+1 FILE F:\2025\Docs\tignola italie\Photos\Giovanni Tignola (1881) - Maria Antonia Russo - Et Enfants.jpg
+2 FORM jpg
+2 TITL Giovanni Tignola (1881) - Maria Antonia Russo - Et Enfants
+1 CHAN
+2 DATE 1 SEP 2025
+3 TIME 23:29:27
+0 @O0004@ OBJE
+1 FILE F:\2025\Docs\tignola italie\Photos\Gennaro Tignola (1883).jpg
+2 FORM jpg
+2 TITL Gennaro Tignola (1883)
+1 CHAN
+2 DATE 1 SEP 2025
+3 TIME 23:30:34
 0 TRLR
