@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
-1 DATE 1 SEP 2025
-2 TIME 23:30:48
+1 DATE 2 SEP 2025
+2 TIME 23:31:37
 1 SUBM @SUBM@
 1 FILE F:\2025\Docs\Website Tignola\tignola\Tignola.ged
 1 COPR Copyright (c) 2025 .
@@ -276,11 +276,11 @@
 1 FAMC @F0005@
 2 PEDI birth
 1 FAMS @F0004@
-1 OBJE @O0002@
+1 OBJE @O0005@
 1 OBJE @O0003@
 1 CHAN
-2 DATE 1 SEP 2025
-3 TIME 23:29:28
+2 DATE 2 SEP 2025
+3 TIME 23:08:56
 0 @I0016@ INDI
 1 NAME Maria Antonia /Russo/
 2 TYPE birth
@@ -292,9 +292,11 @@
 1 DEAT
 2 DATE 16 FEB 1969
 1 FAMS @F0004@
+1 OBJE @O0006@
+1 OBJE @O0007@
 1 CHAN
-2 DATE 21 APR 2025
-3 TIME 02:20:48
+2 DATE 2 SEP 2025
+3 TIME 23:30:13
 0 @I0017@ INDI
 1 NAME Carmine /Tignola/
 2 TYPE birth
@@ -321,10 +323,9 @@
 1 FAMC @F0007@
 2 PEDI birth
 1 FAMS @F0006@
-1 OBJE @O0001@
 1 CHAN
-2 DATE 1 SEP 2025
-3 TIME 23:29:06
+2 DATE 2 SEP 2025
+3 TIME 23:08:02
 0 @I0019@ INDI
 1 NAME Maria Carmela /Monaco/
 2 TYPE birth
@@ -4069,9 +4070,10 @@
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0089@
+1 OBJE @O0008@
 1 CHAN
-2 DATE 31 MAY 2025
-3 TIME 01:14:50
+2 DATE 2 SEP 2025
+3 TIME 23:31:18
 0 @I0290@ INDI
 1 NAME Argia /Mason/
 2 TYPE birth
@@ -8236,6 +8238,28 @@
 1 CHAN
 2 DATE 1 SEP 2025
 3 TIME 23:30:35
+0 @I0602@ INDI
+1 NAME Anna /Tignola/
+2 TYPE birth
+2 GIVN Anna
+2 SURN Tignola
+1 SEX F
+1 FAMC @F0005@
+2 PEDI birth
+1 FAMS @F0200@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 18:38:53
+0 @I0603@ INDI
+1 NAME ??? /Martorelli/
+2 TYPE birth
+2 GIVN ???
+2 SURN Martorelli
+1 SEX M
+1 FAMS @F0200@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 18:38:53
 0 @F0000@ FAM
 1 HUSB @I0190@
 1 MARR
@@ -8315,9 +8339,10 @@
 2 DATE 12 APR 1880
 1 CHIL @I0015@
 1 CHIL @I0601@
+1 CHIL @I0602@
 1 CHAN
-2 DATE 1 SEP 2025
-3 TIME 23:30:35
+2 DATE 2 SEP 2025
+3 TIME 18:38:17
 0 @F0006@ FAM
 1 HUSB @I0018@
 1 WIFE @I0019@
@@ -10192,6 +10217,12 @@
 1 CHAN
 2 DATE 23 AUG 2025
 3 TIME 13:08:11
+0 @F0200@ FAM
+1 HUSB @I0603@
+1 WIFE @I0602@
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 18:38:53
 0 @N0000@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua35455528/wkpdMbg
 0 @N0001@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua35475384/5Ym7vam
 0 @N0002@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua18066115/LpRvlnZ
@@ -10402,4 +10433,32 @@
 1 CHAN
 2 DATE 1 SEP 2025
 3 TIME 23:30:34
+0 @O0005@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1881) retouchée.jpg
+2 FORM jpg
+2 TITL Giovanni Tignola (1881) retouchée
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:08:53
+0 @O0006@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Maria Antonia Russo (1885) - retouchée.jpg
+2 FORM jpg
+2 TITL Maria Antonia Russo (1885) - retouchée
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:30:08
+0 @O0007@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Maria Antonietta Russo (1885).jpeg
+2 FORM jpeg
+2 TITL Maria Antonietta Russo (1885)
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:30:12
+0 @O0008@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1922) - Argia Mason - Mariage 1946.jpg
+2 FORM jpg
+2 TITL Giovanni Tignola (1922) - Argia Mason - Mariage 1946
+1 CHAN
+2 DATE 2 SEP 2025
+3 TIME 23:31:16
 0 TRLR
