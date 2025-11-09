@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
-1 DATE 6 SEP 2025
-2 TIME 09:47:08
+1 DATE 9 NOV 2025
+2 TIME 11:48:03
 1 SUBM @SUBM@
 1 FILE F:\2025\Docs\Website Tignola\tignola\Tignola.ged
 1 COPR Copyright (c) 2025 .
@@ -276,11 +276,10 @@
 1 FAMC @F0005@
 2 PEDI birth
 1 FAMS @F0004@
-1 OBJE @O0005@
-1 OBJE @O0003@
+1 OBJE @O0011@
 1 CHAN
-2 DATE 2 SEP 2025
-3 TIME 23:08:56
+2 DATE 9 NOV 2025
+3 TIME 11:35:37
 0 @I0016@ INDI
 1 NAME Maria Antonia /Russo/
 2 TYPE birth
@@ -292,11 +291,10 @@
 1 DEAT
 2 DATE 16 FEB 1969
 1 FAMS @F0004@
-1 OBJE @O0006@
-1 OBJE @O0007@
+1 OBJE @O0012@
 1 CHAN
-2 DATE 2 SEP 2025
-3 TIME 23:30:13
+2 DATE 9 NOV 2025
+3 TIME 11:35:56
 0 @I0017@ INDI
 1 NAME Carmine /Tignola/
 2 TYPE birth
@@ -4070,10 +4068,10 @@
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0089@
-1 OBJE @O0008@
+1 OBJE @O0013@
 1 CHAN
-2 DATE 2 SEP 2025
-3 TIME 23:31:18
+2 DATE 9 NOV 2025
+3 TIME 11:40:24
 0 @I0290@ INDI
 1 NAME Argia /Mason/
 2 TYPE birth
@@ -4085,9 +4083,10 @@
 1 DEAT
 2 DATE 2013
 1 FAMS @F0089@
+1 OBJE @O0014@
 1 CHAN
-2 DATE 31 MAY 2025
-3 TIME 01:15:08
+2 DATE 9 NOV 2025
+3 TIME 11:40:38
 0 @I0291@ INDI
 1 NAME Daniela /Tignola/
 2 TYPE birth
@@ -4143,9 +4142,10 @@
 1 SEX F
 1 FAMC @F0004@
 2 PEDI birth
+1 FAMS @F0201@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 13:53:56
+2 DATE 9 NOV 2025
+3 TIME 11:21:55
 0 @I0296@ INDI
 1 NAME Angela Renée (Lillina) /Tignola/
 2 TYPE birth
@@ -5077,15 +5077,15 @@
 2 DATE 29 MAY 2025
 3 TIME 14:43:29
 0 @I0380@ INDI
-1 NAME ? /Houis/
+1 NAME Laurent /Houis/
 2 TYPE birth
-2 GIVN ?
+2 GIVN Laurent
 2 SURN Houis
 1 SEX M
 1 FAMS @F0126@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 14:44:01
+2 DATE 9 NOV 2025
+3 TIME 11:47:38
 0 @I0381@ INDI
 1 NAME Lola /Houis/
 2 TYPE birth
@@ -8231,13 +8231,13 @@
 1 BIRT
 2 DATE 19 OCT 1883
 1 DEAT
-2 DATE 3 JUN 1946
+2 DATE 1 JUN 1946
 1 FAMC @F0005@
 2 PEDI birth
-1 OBJE @O0004@
+1 OBJE @O0010@
 1 CHAN
-2 DATE 1 SEP 2025
-3 TIME 23:30:35
+2 DATE 9 NOV 2025
+3 TIME 11:35:17
 0 @I0602@ INDI
 1 NAME Anna /Tignola/
 2 TYPE birth
@@ -8277,6 +8277,49 @@
 1 CHAN
 2 DATE 6 SEP 2025
 3 TIME 09:46:32
+0 @I0605@ INDI
+1 NAME ??? /Frolino/
+2 TYPE birth
+2 GIVN ???
+2 SURN Frolino
+1 SEX M
+1 FAMS @F0201@
+1 CHAN
+2 DATE 9 NOV 2025
+3 TIME 11:21:55
+0 @I0606@ INDI
+1 NAME Franco /Frolino/
+2 TYPE birth
+2 GIVN Franco
+2 SURN Frolino
+1 SEX M
+1 FAMC @F0201@
+2 PEDI birth
+1 CHAN
+2 DATE 9 NOV 2025
+3 TIME 11:21:55
+0 @I0607@ INDI
+1 NAME Alfonso /Frolino/
+2 TYPE birth
+2 GIVN Alfonso
+2 SURN Frolino
+1 SEX M
+1 FAMC @F0201@
+2 PEDI birth
+1 CHAN
+2 DATE 9 NOV 2025
+3 TIME 11:21:55
+0 @I0608@ INDI
+1 NAME Pasquale /Tignola/
+2 TYPE birth
+2 GIVN Pasquale
+2 SURN Tignola
+1 SEX M
+1 FAMC @F0005@
+2 PEDI birth
+1 CHAN
+2 DATE 9 NOV 2025
+3 TIME 11:24:52
 0 @F0000@ FAM
 1 HUSB @I0190@
 1 MARR
@@ -8357,9 +8400,10 @@
 1 CHIL @I0015@
 1 CHIL @I0601@
 1 CHIL @I0602@
+1 CHIL @I0608@
 1 CHAN
-2 DATE 2 SEP 2025
-3 TIME 18:38:17
+2 DATE 9 NOV 2025
+3 TIME 11:24:52
 0 @F0006@ FAM
 1 HUSB @I0018@
 1 WIFE @I0019@
@@ -10241,6 +10285,14 @@
 1 CHAN
 2 DATE 2 SEP 2025
 3 TIME 18:38:53
+0 @F0201@ FAM
+1 HUSB @I0605@
+1 WIFE @I0295@
+1 CHIL @I0606@
+1 CHIL @I0607@
+1 CHAN
+2 DATE 9 NOV 2025
+3 TIME 11:21:55
 0 @N0000@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua35455528/wkpdMbg
 0 @N0001@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua35475384/5Ym7vam
 0 @N0002@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua18066115/LpRvlnZ
@@ -10479,4 +10531,46 @@
 1 CHAN
 2 DATE 2 SEP 2025
 3 TIME 23:31:16
+0 @O0009@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Gennaro Tignola (1883).jpg
+2 FORM jpg
+2 TITL Gennaro Tignola (1883)
+1 CHAN
+2 DATE 6 SEP 2025
+3 TIME 10:46:23
+0 @O0010@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Gennaro Tignola (1883).jpg
+2 FORM jpg
+2 TITL Gennaro Tignola (1883)
+1 CHAN
+2 DATE 9 NOV 2025
+3 TIME 11:35:15
+0 @O0011@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1881) retouchée.jpg
+2 FORM jpg
+2 TITL Giovanni Tignola (1881) retouchée
+1 CHAN
+2 DATE 9 NOV 2025
+3 TIME 11:35:36
+0 @O0012@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Maria Antonia Russo (1885) - retouchée.jpg
+2 FORM jpg
+2 TITL Maria Antonia Russo (1885) - retouchée
+1 CHAN
+2 DATE 9 NOV 2025
+3 TIME 11:35:55
+0 @O0013@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1922) - Mariage 1946.jpg
+2 FORM jpg
+2 TITL Giovanni Tignola (1922) - Mariage 1946
+1 CHAN
+2 DATE 9 NOV 2025
+3 TIME 11:40:22
+0 @O0014@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Argia Mason - Mariage 1946.jpg
+2 FORM jpg
+2 TITL Argia Mason - Mariage 1946
+1 CHAN
+2 DATE 9 NOV 2025
+3 TIME 11:40:37
 0 TRLR
