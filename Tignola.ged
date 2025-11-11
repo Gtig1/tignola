@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
 1 DATE 11 NOV 2025
-2 TIME 11:08:51
+2 TIME 12:15:43
 1 SUBM @SUBM@
 1 FILE F:\2025\Docs\Website Tignola\tignola\Tignola.ged
 1 COPR Copyright (c) 2025 .
@@ -224,10 +224,10 @@
 1 FAMS @F0002@
 1 FAMS @F0102@
 1 FAMS @F0109@
-1 OBJE @O0015@
+1 OBJE @O0017@
 1 CHAN
 2 DATE 11 NOV 2025
-3 TIME 11:08:11
+3 TIME 11:18:49
 0 @I0012@ INDI
 1 NAME Brigitte /Joubert/
 2 TYPE birth
@@ -240,10 +240,10 @@
 1 FAMC @F0190@
 2 PEDI birth
 1 FAMS @F0002@
-1 OBJE @O0016@
+1 OBJE @O0018@
 1 CHAN
 2 DATE 11 NOV 2025
-3 TIME 11:08:23
+3 TIME 11:22:12
 0 @I0014@ INDI
 1 NAME Simonne Irma Elvire /Devochelle/
 2 TYPE birth
@@ -4083,10 +4083,10 @@
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0089@
-1 OBJE @O0013@
+1 OBJE @O0019@
 1 CHAN
-2 DATE 9 NOV 2025
-3 TIME 11:40:24
+2 DATE 11 NOV 2025
+3 TIME 12:15:32
 0 @I0290@ INDI
 1 NAME Argia /Mason/
 2 TYPE birth
@@ -10783,4 +10783,25 @@
 1 CHAN
 2 DATE 11 NOV 2025
 3 TIME 11:08:20
+0 @O0017@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Pascal Tignola.jpg
+2 FORM jpg
+2 TITL Pascal Tignola
+1 CHAN
+2 DATE 11 NOV 2025
+3 TIME 11:18:47
+0 @O0018@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Brigitte Joubert (mariage).jpg
+2 FORM jpg
+2 TITL Brigitte Joubert (mariage)
+1 CHAN
+2 DATE 11 NOV 2025
+3 TIME 11:22:11
+0 @O0019@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1922).jpg
+2 FORM jpg
+2 TITL Giovanni Tignola (1922)
+1 CHAN
+2 DATE 11 NOV 2025
+3 TIME 12:15:31
 0 TRLR
