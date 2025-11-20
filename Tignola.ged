@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
 1 DATE 20 NOV 2025
-2 TIME 00:13:49
+2 TIME 23:25:05
 1 SUBM @SUBM@
 1 FILE F:\2025\Docs\Website Tignola\tignola\Tignola.ged
 1 COPR Copyright (c) 2025 .
@@ -4092,10 +4092,10 @@
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0089@
-1 OBJE @O0019@
+1 OBJE @O0025@
 1 CHAN
-2 DATE 11 NOV 2025
-3 TIME 12:15:32
+2 DATE 20 NOV 2025
+3 TIME 23:16:00
 0 @I0290@ INDI
 1 NAME Argia /Mason/
 2 TYPE birth
@@ -4138,9 +4138,10 @@
 1 SEX M
 1 FAMC @F0004@
 2 PEDI birth
+1 OBJE @O0023@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 13:53:56
+2 DATE 20 NOV 2025
+3 TIME 22:44:16
 0 @I0294@ INDI
 1 NAME Antoine Mario ?once Pascal /Tignola/
 2 TYPE birth
@@ -4238,10 +4239,12 @@
 2 GIVN Jeannine
 2 SURN Gaborieau
 1 SEX F
+1 BIRT
+2 DATE 28 APR 1941
 1 FAMS @F0093@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 14:13:43
+2 DATE 20 NOV 2025
+3 TIME 22:40:30
 0 @I0301@ INDI
 1 NAME Maryline /Tignola/
 2 TYPE birth
@@ -4440,19 +4443,21 @@
 1 SEX F
 1 FAMS @F0101@
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 14:17:39
+2 DATE 20 NOV 2025
+3 TIME 22:40:11
 0 @I0319@ INDI
 1 NAME Olivia /Tignola/
 2 TYPE birth
 2 GIVN Olivia
 2 SURN Tignola
 1 SEX F
+1 BIRT
+2 DATE 31 JAN 2012
 1 FAMC @F0101@
 2 PEDI birth
 1 CHAN
-2 DATE 29 MAY 2025
-3 TIME 14:17:39
+2 DATE 20 NOV 2025
+3 TIME 22:41:14
 0 @I0320@ INDI
 1 NAME Marietta /Pérou/
 2 TYPE birth
@@ -6482,9 +6487,10 @@
 2 DATE 1984
 1 FAMC @F0004@
 2 PEDI birth
+1 OBJE @O0022@
 1 CHAN
-2 DATE 9 AUG 2025
-3 TIME 12:26:30
+2 DATE 20 NOV 2025
+3 TIME 22:42:34
 0 @I0487@ INDI
 1 NAME Pasquale /Renza/
 2 TYPE birth
@@ -8761,7 +8767,6 @@
 3 MAP
 4 LATI N49.803878
 4 LONG E2.91404
-2 OBJE @O0000@
 1 CHIL @I0011@
 1 CHIL @I0024@
 1 CHIL @I0025@
@@ -10932,41 +10937,6 @@
 1 CONC D029_3E257_0016_00N_1884_013.jpg&levelDescription=FRAD029_00003E257_pa-2
 1 CONC 81
 1 CONT p6
-0 @O0000@ OBJE
-1 FILE D:/Documents/Tignola/Documents/Fiche de famille état civil.pdf
-2 FORM pdf
-2 TITL Fiche de famille état civil
-1 CHAN
-2 DATE 20 APR 2025
-3 TIME 02:14:11
-0 @O0001@ OBJE
-1 FILE F:\2025\Docs\tignola italie\Photos\Giovanni Tignola (1922) - Argia Mason - Mariage 1946.jpg
-2 FORM jpg
-2 TITL Giovanni Tignola (1922) - Argia Mason - Mariage 1946
-1 CHAN
-2 DATE 1 SEP 2025
-3 TIME 23:29:04
-0 @O0002@ OBJE
-1 FILE F:\2025\Docs\tignola italie\Photos\Giovanni Tignola (1881) - Maria Antonia Russo.jpg
-2 FORM jpg
-2 TITL Giovanni Tignola (1881) - Maria Antonia Russo
-1 CHAN
-2 DATE 1 SEP 2025
-3 TIME 23:29:23
-0 @O0003@ OBJE
-1 FILE F:\2025\Docs\tignola italie\Photos\Giovanni Tignola (1881) - Maria Antonia Russo - Et Enfants.jpg
-2 FORM jpg
-2 TITL Giovanni Tignola (1881) - Maria Antonia Russo - Et Enfants
-1 CHAN
-2 DATE 1 SEP 2025
-3 TIME 23:29:27
-0 @O0004@ OBJE
-1 FILE F:\2025\Docs\tignola italie\Photos\Gennaro Tignola (1883).jpg
-2 FORM jpg
-2 TITL Gennaro Tignola (1883)
-1 CHAN
-2 DATE 1 SEP 2025
-3 TIME 23:30:34
 0 @O0005@ OBJE
 1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1881) retouchée.jpg
 2 FORM jpg
@@ -10988,20 +10958,6 @@
 1 CHAN
 2 DATE 2 SEP 2025
 3 TIME 23:30:12
-0 @O0008@ OBJE
-1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1922) - Argia Mason - Mariage 1946.jpg
-2 FORM jpg
-2 TITL Giovanni Tignola (1922) - Argia Mason - Mariage 1946
-1 CHAN
-2 DATE 2 SEP 2025
-3 TIME 23:31:16
-0 @O0009@ OBJE
-1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Gennaro Tignola (1883).jpg
-2 FORM jpg
-2 TITL Gennaro Tignola (1883)
-1 CHAN
-2 DATE 6 SEP 2025
-3 TIME 10:46:23
 0 @O0010@ OBJE
 1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Gennaro Tignola (1883).jpg
 2 FORM jpg
@@ -11023,13 +10979,6 @@
 1 CHAN
 2 DATE 9 NOV 2025
 3 TIME 11:35:55
-0 @O0013@ OBJE
-1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1922) - Mariage 1946.jpg
-2 FORM jpg
-2 TITL Giovanni Tignola (1922) - Mariage 1946
-1 CHAN
-2 DATE 9 NOV 2025
-3 TIME 11:40:22
 0 @O0014@ OBJE
 1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Argia Mason - Mariage 1946.jpg
 2 FORM jpg
@@ -11086,4 +11035,32 @@
 1 CHAN
 2 DATE 20 NOV 2025
 3 TIME 00:13:23
+0 @O0022@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Anna Tignola.png
+2 FORM png
+2 TITL Anna Tignola
+1 CHAN
+2 DATE 20 NOV 2025
+3 TIME 22:42:30
+0 @O0023@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Vincenzo Tignola.png
+2 FORM png
+2 TITL Vincenzo Tignola
+1 CHAN
+2 DATE 20 NOV 2025
+3 TIME 22:44:14
+0 @O0024@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1922).jpg
+2 FORM jpg
+2 TITL Giovanni Tignola (1922)
+1 CHAN
+2 DATE 20 NOV 2025
+3 TIME 23:13:45
+0 @O0025@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1922).jpg
+2 FORM jpg
+2 TITL Giovanni Tignola (1922)
+1 CHAN
+2 DATE 20 NOV 2025
+3 TIME 23:15:58
 0 TRLR
