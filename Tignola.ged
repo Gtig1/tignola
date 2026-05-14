@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
-1 DATE 9 MAY 2026
-2 TIME 22:45:33
+1 DATE 14 MAY 2026
+2 TIME 13:33:05
 1 SUBM @SUBM@
 1 FILE F:\2025\Docs\Website Tignola\tignola\Tignola.ged
 1 COPR Copyright (c) 2026 .
@@ -330,16 +330,14 @@
 2 PEDI birth
 1 FAMS @F0005@
 1 CHAN
-2 DATE 20 APR 2025
-3 TIME 02:17:43
+2 DATE 10 MAY 2026
+3 TIME 16:50:25
 0 @I0018@ INDI
-1 NAME Giovanni /Tignola/
+1 NAME Giovanni Giuseppe Pasquale /Tignola/
 2 TYPE birth
-2 GIVN Giovanni
+2 GIVN Giovanni Giuseppe Pasquale
 2 SURN Tignola
 1 SEX M
-1 BIRT
-2 DATE 1822
 1 DEAT
 2 DATE 16 JUL 1857
 2 PLAC Napoli (San Lorenzo), 80139 Italia
@@ -347,12 +345,16 @@
 4 LATI N40.852264
 4 LONG E14.260866
 2 NOTE @N0073@
+1 BAPM
+2 TYPE Chiesa di San Giovanni e Paolo
+2 DATE 24 MAR 1802
+2 PLAC Napoli (San Carlo all'Arena), 80137 Italia
 1 FAMC @F0007@
 2 PEDI birth
 1 FAMS @F0006@
 1 CHAN
-2 DATE 20 FEB 2026
-3 TIME 23:03:49
+2 DATE 14 MAY 2026
+3 TIME 12:55:31
 0 @I0019@ INDI
 1 NAME Maria Carmela /Monaco/
 2 TYPE birth
@@ -661,8 +663,8 @@
 1 FAMC @F0006@
 2 PEDI birth
 1 CHAN
-2 DATE 20 FEB 2026
-3 TIME 23:16:32
+2 DATE 10 MAY 2026
+3 TIME 16:50:25
 0 @I0035@ INDI
 1 NAME Domenico /Tignola/
 2 TYPE birth
@@ -674,8 +676,8 @@
 1 FAMC @F0006@
 2 PEDI birth
 1 CHAN
-2 DATE 20 APR 2025
-3 TIME 02:17:43
+2 DATE 10 MAY 2026
+3 TIME 16:50:25
 0 @I0036@ INDI
 1 NAME Angiola Pasqua /Tignola/
 2 TYPE birth
@@ -697,8 +699,8 @@
 1 FAMC @F0006@
 2 PEDI birth
 1 CHAN
-2 DATE 20 FEB 2026
-3 TIME 23:18:41
+2 DATE 10 MAY 2026
+3 TIME 16:50:25
 0 @I0037@ INDI
 1 NAME Domenico /Tignola/
 2 TYPE birth
@@ -777,11 +779,17 @@
 2 GIVN Giovanni
 2 SURN Tignola
 1 SEX M
+1 DEAT
+2 DATE 14 OCT 1800
+2 PLAC Napoli (Borgo di Loreto), 80142 Italia
+3 MAP
+4 LATI N40.847282
+4 LONG E14.27194
 1 FAMS @F0008@
 1 NOTE @N0008@
 1 CHAN
-2 DATE 20 APR 2025
-3 TIME 11:03:15
+2 DATE 14 MAY 2026
+3 TIME 13:07:45
 0 @I0040@ INDI
 1 NAME Margarita /Francese/
 2 TYPE birth
@@ -9537,6 +9545,7 @@
 1 DEAT
 2 DATE 2 JAN 1845
 2 PLAC Napoli (San Carlo all'Arena), 80137 Italia
+2 NOTE @N0086@
 1 FAMC @F0226@
 2 PEDI birth
 1 CHAN
@@ -10028,9 +10037,10 @@
 1 CHIL @I0034@
 1 CHIL @I0035@
 1 CHIL @I0036@
+1 NOTE @N0087@
 1 CHAN
-2 DATE 20 APR 2025
-3 TIME 02:17:43
+2 DATE 10 MAY 2026
+3 TIME 16:50:25
 0 @F0007@ FAM
 1 HUSB @I0037@
 1 WIFE @I0038@
@@ -12382,6 +12392,12 @@
 0 @N0061@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua18033307/5GexPBz?la
 1 CONC ng=fr
 1 CONT Page 536
+1 CONT 
+1 CONT https://antenati.cultura.gov.it/ark:/12657/an_ua18047419/0nOdMVA?lang=fr
+1 CONT 
+1 CONT Dossier de mariage
+1 CONT https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9TS-ZV83?view=index&cc
+1 CONC =1482818&lang=en&groupId=
 0 @N0062@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua18114526/LpR4JVo?la
 1 CONC ng=fr
 1 CONT Page 135
@@ -12417,6 +12433,10 @@
 0 @N0083@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua17333789/Ly1pBJK?la
 1 CONC ng=fr
 0 @N0084@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua17336192/wbOmGW3?la
+1 CONC ng=fr
+0 @N0085@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua17713322/wReGez3
+0 @N0086@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua17713322/wReGez3
+0 @N0087@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua18047419/0nOdMVA?la
 1 CONC ng=fr
 0 @O0005@ OBJE
 1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1881) retouchée.jpg
