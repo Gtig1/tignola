@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
-1 DATE 14 MAY 2026
-2 TIME 13:33:05
+1 DATE 16 MAY 2026
+2 TIME 16:59:04
 1 SUBM @SUBM@
 1 FILE F:\2025\Docs\Website Tignola\tignola\Tignola.ged
 1 COPR Copyright (c) 2026 .
@@ -4246,9 +4246,10 @@
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0201@
+1 OBJE @O0030@
 1 CHAN
-2 DATE 9 NOV 2025
-3 TIME 11:21:55
+2 DATE 16 MAY 2026
+3 TIME 16:58:53
 0 @I0296@ INDI
 1 NAME Angela Renée (Lillina) /Tignola/
 2 TYPE birth
@@ -6604,10 +6605,11 @@
 2 DATE 1984
 1 FAMC @F0004@
 2 PEDI birth
+1 FAMS @F0236@
 1 OBJE @O0022@
 1 CHAN
-2 DATE 20 NOV 2025
-3 TIME 22:42:34
+2 DATE 15 MAY 2026
+3 TIME 22:22:27
 0 @I0487@ INDI
 1 NAME Pasquale /Renza/
 2 TYPE birth
@@ -8592,26 +8594,28 @@
 2 DATE 9 NOV 2025
 3 TIME 21:12:29
 0 @I0611@ INDI
-1 NAME ? /?/
+1 NAME John Edward /Dagg/
 2 TYPE birth
-2 GIVN ?
-2 SURN ?
+2 GIVN John Edward
+2 SURN Dagg
 1 SEX M
 1 FAMS @F0204@
 1 CHAN
-2 DATE 9 NOV 2025
-3 TIME 13:42:06
+2 DATE 14 MAY 2026
+3 TIME 17:31:22
 0 @I0612@ INDI
-1 NAME Terry /?/
+1 NAME Terry /Dagg/
 2 TYPE birth
 2 GIVN Terry
-2 SURN ?
+2 SURN Dagg
 1 SEX F
+1 BIRT
+2 DATE 22 OCT 1952
 1 FAMC @F0204@
 2 PEDI birth
 1 CHAN
-2 DATE 9 NOV 2025
-3 TIME 13:42:06
+2 DATE 14 MAY 2026
+3 TIME 17:31:36
 0 @I0613@ INDI
 1 NAME Lenny /Bocquier/
 2 TYPE birth
@@ -9939,6 +9943,16 @@
 1 CHAN
 2 DATE 22 FEB 2026
 3 TIME 19:24:31
+0 @I0702@ INDI
+1 NAME ? /Stradolini/
+2 TYPE birth
+2 GIVN ?
+2 SURN Stradolini
+1 SEX M
+1 FAMS @F0236@
+1 CHAN
+2 DATE 15 MAY 2026
+3 TIME 22:22:27
 0 @F0000@ FAM
 1 HUSB @I0190@
 1 MARR
@@ -12214,6 +12228,12 @@
 1 CHAN
 2 DATE 22 FEB 2026
 3 TIME 18:43:08
+0 @F0236@ FAM
+1 HUSB @I0702@
+1 WIFE @I0486@
+1 CHAN
+2 DATE 15 MAY 2026
+3 TIME 22:22:27
 0 @N0000@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua35455528/wkpdMbg
 0 @N0001@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua35475384/5Ym7vam
 0 @N0002@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua18066115/LpRvlnZ
@@ -12592,4 +12612,11 @@
 1 CHAN
 2 DATE 9 MAY 2026
 3 TIME 22:44:20
+0 @O0030@ OBJE
+1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Zia Carmela (1930) - retouchée.png
+2 FORM png
+2 TITL Zia Carmela (1930) - retouchée
+1 CHAN
+2 DATE 16 MAY 2026
+3 TIME 16:58:47
 0 TRLR
