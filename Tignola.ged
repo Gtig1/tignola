@@ -3,7 +3,7 @@
 2 VERS AIO64-6.0.1--1
 2 NAME Gramps
 1 DATE 16 MAY 2026
-2 TIME 16:59:04
+2 TIME 22:42:52
 1 SUBM @SUBM@
 1 FILE F:\2025\Docs\Website Tignola\tignola\Tignola.ged
 1 COPR Copyright (c) 2026 .
@@ -6224,7 +6224,12 @@
 4 LATI N49.757288
 4 LONG E2.910165
 1 DEAT
-2 DATE 1940
+2 DATE 1 FEB 1941
+2 PLAC Polincove, 62370 France
+3 MAP
+4 LATI N50.855444
+4 LONG E2.101766
+2 NOTE @N0089@
 1 FAMC @F0146@
 2 PEDI birth
 1 FAMS @F0145@
@@ -11373,9 +11378,10 @@
 3 MAP
 4 LATI N50.952621
 4 LONG E1.854008
+1 NOTE @N0088@
 1 CHAN
-2 DATE 17 AUG 2025
-3 TIME 11:47:23
+2 DATE 16 MAY 2026
+3 TIME 17:21:07
 0 @F0146@ FAM
 1 HUSB @I0464@
 1 WIFE @I0466@
@@ -12458,6 +12464,10 @@
 0 @N0086@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua17713322/wReGez3
 0 @N0087@ NOTE https://antenati.cultura.gov.it/ark:/12657/an_ua18047419/0nOdMVA?la
 1 CONC ng=fr
+0 @N0088@ NOTE https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/etat_civ
+1 CONC il.html?id=392220155
+0 @N0089@ NOTE https://archivesenligne.pasdecalais.fr/v2/ad62/visualiseur/enregist
+1 CONC rement_tsa.html?id=393494463
 0 @O0005@ OBJE
 1 FILE F:\2025\Docs\Website Tignola\tignola\src\images\Giovanni Tignola (1881) retouchée.jpg
 2 FORM jpg
