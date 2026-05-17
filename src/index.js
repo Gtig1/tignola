@@ -30,6 +30,11 @@ function render(chart, indiInfo) {
   };
 
   const initialRender = !indiInfo;
+  if (initialRender) {
+    document.documentElement.style.cssText = 'margin:0;padding:0;overflow:hidden;';
+    document.body.style.cssText = 'margin:0;padding:0;overflow:hidden;';
+    parent.style.cssText = 'width:100vw;height:100vh;overflow:auto;';
+  }
   const dx = parent.clientWidth / 2 - info.origin[0];
   const dy = parent.clientHeight / 2 - info.origin[1];
   const svgTransition = svg.transition().delay(200).duration(500);
